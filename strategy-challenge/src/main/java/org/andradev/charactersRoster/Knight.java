@@ -2,6 +2,8 @@ package org.andradev.charactersRoster;
 
 import org.andradev.behaviors.SwordBehavior;
 
+// Knight -> Character
+// Knight => WeaponBehavior
 public class Knight extends Character {
 	
 	public Knight() {

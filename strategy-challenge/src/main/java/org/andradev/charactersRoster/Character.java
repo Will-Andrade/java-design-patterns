@@ -2,6 +2,7 @@ package org.andradev.charactersRoster;
 
 import org.andradev.behaviors.WeaponBehavior;
 
+// The abstract class
 public abstract class Character {
 	
 	WeaponBehavior weapon;

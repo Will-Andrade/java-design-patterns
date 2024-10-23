@@ -1,5 +1,6 @@
 package org.andradev.behaviors;
 
+// SwordBehavior ..> WeaponBehavior
 public class SwordBehavior implements WeaponBehavior {
 	
 	@Override
