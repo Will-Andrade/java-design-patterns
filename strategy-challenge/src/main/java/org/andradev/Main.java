@@ -9,7 +9,7 @@ import org.andradev.behaviors.*;
  * Head First Design Patterns Challenge: Strategy Design Puzzle
  *
  * @author
- * Author: Willian Andrade
+ * Willian Andrade
  *
  * @implSpec
  * 1. Arrange the classes;
